@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hospital_lagos_lasuth_001",
+    "title": "Lagos State University Teaching Hospital (LASUTH)",
+    "category": "hospitals_lagos",
+    "content": "LASUTH is a major public teaching hospital located at 1-5 Oba Akinjobi Way, Ikeja, Lagos. It is one of the largest referral hospitals in Lagos State, offering a full range of specialist services including surgery, obstetrics and gynaecology, and emergency care. It began as Ikeja General Hospital before being upgraded to a teaching hospital in 2001.",
+    "source": "LASUTH official information (cross-referenced, 2026)",
+    "tags": ["hospital", "Lagos", "Ikeja", "teaching hospital", "public"]
+  },
+  {
+    "id": "hospital_lagos_island_general_001",
+    "title": "Lagos Island General Hospital (General Hospital Odan)",
+    "category": "hospitals_lagos",
+    "content": "General Hospital, Lagos (also called Lagos Island General Hospital or General Hospital Odan) is located in Odan, Lagos Island, between Broad Street and Marina in the central business district. Established in 1893, it is the oldest hospital in Nigeria and offers outpatient care, emergency treatment, surgery, and laboratory services as a public secondary healthcare facility.",
+    "source": "Lagos State Health Service Commission records (cross-referenced, 2026)",
+    "tags": ["hospital", "Lagos Island", "public hospital", "emergency"]
+  },
+  {
+    "id": "hospital_lagos_gbagada_001",
+    "title": "General Hospital, Gbagada",
+    "category": "hospitals_lagos",
+    "content": "General Hospital Gbagada is a large public hospital in Gbagada, Lagos, positioned near the 3rd Mainland Bridge, Lagos-Ibadan Expressway, and Badagry/Apapa Oshodi Expressway, making it accessible from many parts of Lagos. It has specialized departments including a Burns and Trauma unit and maternal and pediatric care.",
+    "source": "Lagos State Health Service Commission records (cross-referenced, 2026)",
+    "tags": ["hospital", "Gbagada", "public hospital", "trauma"]
+  },
+  {
+    "id": "hospital_lagos_randle_001",
+    "title": "Randle General Hospital, Surulere",
+    "category": "hospitals_lagos",
+    "content": "Randle General Hospital is located at 68 Randle Avenue, Surulere, Lagos. It provides secondary-level care including medical, surgical, maternal and child health, dental, and pharmaceutical services to residents of Surulere and surrounding areas.",
+    "source": "Lagos State Health Service Commission records (cross-referenced, 2026)",
+    "tags": ["hospital", "Surulere", "public hospital"]
+  },
+  {
+    "id": "hospital_lagos_luth_001",
+    "title": "Lagos University Teaching Hospital (LUTH)",
+    "category": "hospitals_lagos",
+    "content": "LUTH is a major federal teaching hospital located in Idi-Araba, Mushin/Surulere area of Lagos. It is one of Nigeria's foremost tertiary referral hospitals, offering comprehensive specialist and emergency medical services and serving as a major training center for doctors.",
+    "source": "General public health knowledge (cross-referenced, 2026)",
+    "tags": ["hospital", "Idi-Araba", "federal teaching hospital"]
+  },
+  {
+    "id": "hospital_lagos_alimosho_001",
+    "title": "Alimosho General Hospital",
+    "category": "hospitals_lagos",
+    "content": "Alimosho General Hospital is located off Lasu-Isheri Expressway, General Bus Stop, Igando, Lagos. It offers maternal and child care, general surgery, paediatrics, dental, physiotherapy, and diagnostic services to residents of the Alimosho local government area.",
+    "source": "Lagos State Health Service Commission records (cross-referenced, 2026)",
+    "tags": ["hospital", "Igando", "Alimosho", "public hospital"]
+  },
+  {
+    "id": "hospital_lagos_guidance_001",
+    "title": "Finding Verified Hospital Contact Details in Lagos",
+    "category": "hospitals_lagos",
+    "content": "Lagos has many hospitals, and contact details can change. For urgent or life-threatening situations, callers should dial Nigeria's national emergency number, 112, or Lagos State's dedicated emergency line, 767, both toll-free from any network, rather than searching for a specific hospital's number during an emergency.",
+    "source": "VoiceReach AI operational guidance",
+    "tags": ["hospital", "Lagos", "guidance", "emergency"]
+  }
+]

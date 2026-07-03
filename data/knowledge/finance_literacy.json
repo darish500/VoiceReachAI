@@ -1,0 +1,42 @@
+[
+  {
+    "id": "finance_budgeting_basics_001",
+    "title": "Simple Budgeting Basics",
+    "category": "finance_literacy",
+    "content": "A simple way to manage money is to divide income into three broad parts: essential needs (food, rent, transport, school fees), savings (even a small fixed amount set aside regularly before spending), and other wants. Tracking spending for a few weeks, even on paper or in a notebook, helps reveal where money is actually going and makes it easier to spot areas to cut back.",
+    "source": "General financial literacy guidance (cross-referenced, 2026)",
+    "tags": ["finance", "budgeting", "financial literacy"]
+  },
+  {
+    "id": "finance_understanding_interest_001",
+    "title": "Understanding Loan Interest Rates",
+    "category": "finance_literacy",
+    "content": "Interest is the extra amount charged on top of a loan, usually shown as a percentage. A lower rate means less extra to repay. Loans described only by a naira amount added per week or month, without a clear annual percentage rate (APR), can hide extremely high effective interest -- always ask what the total repayment amount will be, and over what period, before agreeing to any loan.",
+    "source": "General financial literacy guidance (cross-referenced, 2026)",
+    "tags": ["finance", "interest rate", "loans", "financial literacy"]
+  },
+  {
+    "id": "finance_nhia_health_insurance_001",
+    "title": "National Health Insurance Authority (NHIA) for Self-Employed Nigerians",
+    "category": "finance_literacy",
+    "content": "The National Health Insurance Authority (NHIA) runs the GIFSHIP programme (Group, Individual and Family Social Health Insurance Programme) for self-employed people, traders, artisans, and informal workers who are not covered through an employer. Enrolling requires a National Identification Number (NIN) and payment of an annual premium (individual and family rates apply, and rates can change -- confirm the current amount with an NHIA office). Once enrolled, members choose a Health Maintenance Organization (HMO) and a healthcare provider, and can access covered treatment without needing to pay the full cost out of pocket at the point of care.",
+    "source": "National Health Insurance Authority (NHIA) (cross-referenced, 2026)",
+    "tags": ["finance", "health insurance", "NHIA", "GIFSHIP"]
+  },
+  {
+    "id": "finance_savings_habit_001",
+    "title": "Building a Savings Habit With Small Amounts",
+    "category": "finance_literacy",
+    "content": "Saving does not require large amounts to be effective. Setting aside even a small, fixed amount regularly -- whether daily, weekly, or after every sale for a trader -- builds a habit and a cushion for emergencies over time. Mobile money savings wallets, cooperative societies (esusu/ajo), and registered microfinance banks all offer ways to save small amounts safely, generally safer than keeping large amounts of cash at home.",
+    "source": "General financial literacy guidance (cross-referenced, 2026)",
+    "tags": ["finance", "savings", "financial literacy"]
+  },
+  {
+    "id": "finance_ussd_banking_safety_001",
+    "title": "Using USSD Banking Codes Safely",
+    "category": "finance_literacy",
+    "content": "Many Nigerian banks offer USSD codes (like dialing a short number starting with *) for balance checks, transfers, and airtime purchase without needing internet access. These are convenient for areas with poor network coverage, but the same safety rules apply as with any banking: never share the PIN used to complete a USSD transaction with anyone, and only use the official USSD code published by your own bank -- scammers sometimes trick people into dialing a lookalike code that redirects a transfer to the scammer's account.",
+    "source": "General financial literacy/consumer protection guidance (cross-referenced, 2026)",
+    "tags": ["finance", "USSD", "mobile banking", "scam prevention"]
+  }
+]

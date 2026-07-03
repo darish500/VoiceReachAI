@@ -1,0 +1,34 @@
+[
+  {
+    "id": "maternal_hydration_001",
+    "title": "Water Intake During Pregnancy",
+    "category": "maternal_health",
+    "content": "Yes, it is important for pregnant women to drink plenty of water daily, typically around 8-10 cups (roughly 2-2.5 liters). Adequate water helps form the placenta, supports increased blood volume, prevents constipation, reduces the risk of urinary tract infections, and helps prevent overheating and swelling. Signs of dehydration during pregnancy include dark urine, dizziness, headache, and reduced urination -- if these occur, increase fluid intake and consult a health worker.",
+    "source": "WHO Antenatal Care Guidelines",
+    "tags": ["pregnancy", "hydration", "maternal health", "water"]
+  },
+  {
+    "id": "maternal_nutrition_001",
+    "title": "Nutrition During Pregnancy",
+    "category": "maternal_health",
+    "content": "Pregnant women should eat a balanced diet including proteins (beans, fish, eggs), iron-rich foods (leafy greens, liver) to prevent anemia, calcium sources (milk, small fish with bones) for bone development, and folic acid (green vegetables, beans) to prevent birth defects. Meals should be spread across the day, and expectant mothers should avoid excessive caffeine and alcohol entirely.",
+    "source": "NCDC Maternal Health Guidelines",
+    "tags": ["pregnancy", "nutrition", "maternal health", "diet"]
+  },
+  {
+    "id": "maternal_danger_signs_001",
+    "title": "Pregnancy Danger Signs Requiring Immediate Care",
+    "category": "maternal_health",
+    "content": "Pregnant women should seek emergency care immediately if they experience: heavy vaginal bleeding, severe abdominal pain, severe headache with blurred vision, high fever, reduced or no fetal movement after the third trimester, convulsions, or fluid leaking before term. These signs may indicate serious complications such as pre-eclampsia, placental abruption, or infection.",
+    "source": "WHO Maternal Danger Signs Guidelines",
+    "tags": ["pregnancy", "emergency", "danger signs", "maternal health"]
+  },
+  {
+    "id": "maternal_antenatal_001",
+    "title": "Antenatal Care Visits",
+    "category": "maternal_health",
+    "content": "Pregnant women should attend at least 8 antenatal care visits, starting as early as possible in the first trimester. These visits monitor the health of both mother and baby, check blood pressure, screen for anemia and infections, and provide tetanus vaccination and malaria prevention (such as insecticide-treated nets and preventive antimalarial treatment).",
+    "source": "WHO Antenatal Care Guidelines",
+    "tags": ["pregnancy", "antenatal care", "maternal health"]
+  }
+]

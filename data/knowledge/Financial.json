@@ -1,0 +1,34 @@
+[
+  {
+    "id": "finance_scam_awareness_001",
+    "title": "Recognizing Mobile Money and Bank Scams",
+    "category": "financial_safety",
+    "content": "Common signs of a scam include: someone claiming to be from your bank or a mobile money agent asking for your PIN, OTP, or password over the phone; urgent messages saying your account will be blocked unless you act immediately; requests to send money to 'verify' or 'unlock' an account; and prizes or winnings that require an upfront payment. Legitimate banks and mobile money providers never ask for your PIN or OTP by phone, SMS, or in person.",
+    "source": "Central Bank of Nigeria Consumer Protection Guidelines",
+    "tags": ["finance", "scam", "mobile money", "fraud prevention"]
+  },
+  {
+    "id": "finance_otp_pin_safety_001",
+    "title": "Protecting Your PIN and OTP",
+    "category": "financial_safety",
+    "content": "Never share your ATM PIN, mobile money PIN, or one-time password (OTP) with anyone, including people claiming to be bank staff, agents, or family members. Your bank will never call or text asking for these details. If you receive an unexpected OTP, do not share it -- it likely means someone is trying to access your account, and you should contact your bank immediately using the number on your bank card or official website.",
+    "source": "Central Bank of Nigeria Consumer Protection Guidelines",
+    "tags": ["finance", "PIN", "OTP", "fraud prevention"]
+  },
+  {
+    "id": "finance_suspected_fraud_001",
+    "title": "What To Do If You Suspect Fraud",
+    "category": "financial_safety",
+    "content": "If you suspect fraudulent activity on your account, stop sending money immediately and contact your bank's official customer service line right away to report it and request a freeze on the affected account. Do not use phone numbers sent to you in a suspicious message -- always use the number printed on your bank card or the bank's official website. Report the incident to the Economic and Financial Crimes Commission (EFCC) if significant funds are involved.",
+    "source": "Central Bank of Nigeria Consumer Protection Guidelines",
+    "tags": ["finance", "fraud", "emergency", "scam"]
+  },
+  {
+    "id": "finance_savings_basics_001",
+    "title": "Basic Savings Guidance",
+    "category": "financial_safety",
+    "content": "Building an emergency fund of even a small, regular amount helps protect against unexpected expenses like medical bills. Community savings groups (esusu/ajo) and mobile money savings wallets are accessible ways to start saving small amounts consistently. Keeping savings in a registered bank or licensed mobile money provider is safer than keeping large cash sums at home.",
+    "source": "Central Bank of Nigeria Financial Inclusion Guidelines",
+    "tags": ["finance", "savings", "financial literacy"]
+  }
+]

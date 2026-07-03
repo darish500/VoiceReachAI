@@ -1,0 +1,34 @@
+[
+  {
+    "id": "child_health_immunization_overview_001",
+    "title": "Routine Childhood Immunization in Nigeria",
+    "category": "child_health",
+    "content": "Nigeria's National Primary Health Care Development Agency (NPHCDA) runs a routine immunization schedule that protects children against diseases including polio, measles, hepatitis B, tuberculosis (via the BCG vaccine), yellow fever, and diphtheria/pertussis/tetanus, among others. All routine vaccines on the national schedule are provided free at government health centres. Vaccination typically begins at birth (BCG, first polio dose, hepatitis B) and continues with several visits during the child's first year, plus additional doses later in childhood. Parents should keep the child's immunization card safe and bring it to every health visit, and can ask any Primary Health Care centre for the current schedule and which doses are due.",
+    "source": "National Primary Health Care Development Agency (NPHCDA) (cross-referenced, 2026)",
+    "tags": ["child health", "immunization", "vaccination", "NPHCDA"]
+  },
+  {
+    "id": "child_health_immunization_importance_001",
+    "title": "Why Completing Immunization on Schedule Matters",
+    "category": "child_health",
+    "content": "Missing or delaying vaccine doses leaves a child vulnerable to serious, sometimes fatal, diseases during exactly the period they are most at risk. Nigeria has experienced measles outbreaks in areas with low vaccination coverage. Completing the full routine immunization schedule before age one, and any later booster doses, gives children the strongest protection and also helps protect the wider community through herd immunity.",
+    "source": "NPHCDA/WHO immunization guidance (cross-referenced, 2026)",
+    "tags": ["child health", "immunization", "measles", "vaccination"]
+  },
+  {
+    "id": "child_health_fever_danger_signs_001",
+    "title": "Danger Signs in a Sick Child Requiring Urgent Care",
+    "category": "child_health",
+    "content": "A child should be taken for urgent medical care if they show any of the following: unable to drink or breastfeed, vomiting everything, convulsions (fits), unusually sleepy or difficult to wake, fast or difficult breathing, fever with a stiff neck or rash, or signs of severe dehydration (sunken eyes, very little urine, skin that stays pinched when pressed). These signs can indicate serious illness such as severe malaria, meningitis, or pneumonia, and should not be managed at home alone.",
+    "source": "WHO/IMCI (Integrated Management of Childhood Illness) guidance (cross-referenced, 2026)",
+    "tags": ["child health", "emergency", "danger signs", "fever"]
+  },
+  {
+    "id": "child_health_diarrhea_management_001",
+    "title": "Managing Diarrhea in Children at Home",
+    "category": "child_health",
+    "content": "For a child with diarrhea but no danger signs, the priority is preventing dehydration: continue breastfeeding or normal feeding, and give oral rehydration solution (ORS) frequently in small sips. Zinc supplementation (given at a health facility) can also help reduce the duration and severity of diarrhea in children. Seek medical care if diarrhea contains blood, lasts more than a couple of days, or the child shows any dehydration danger signs such as sunken eyes or reduced urination.",
+    "source": "WHO/UNICEF childhood diarrhea management guidance (cross-referenced, 2026)",
+    "tags": ["child health", "diarrhea", "ORS", "dehydration"]
+  }
+]

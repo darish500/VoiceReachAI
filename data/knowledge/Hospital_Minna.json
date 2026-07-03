@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hospital_minna_general_001",
+    "title": "General Hospital, Minna",
+    "category": "hospitals_minna",
+    "content": "General Hospital Minna is a public secondary healthcare facility located on Hospital Road, Minna, Niger State. It is one of the main government-run hospitals serving Minna and offers general medical, surgical, and maternity services. As a public hospital, it is generally more affordable than private clinics.",
+    "source": "Niger State health facility directories (cross-referenced, 2026)",
+    "tags": ["hospital", "Minna", "Niger State", "public hospital"]
+  },
+  {
+    "id": "hospital_minna_bay_clinic_001",
+    "title": "Bay Clinic, Minna",
+    "category": "hospitals_minna",
+    "content": "Bay Clinic is a private hospital located on Bay Clinic Road, Tunga area, Minna, Niger State. It offers general medical and clinic services to residents of the Tunga area and wider Minna.",
+    "source": "Niger State health facility directories (cross-referenced, 2026)",
+    "tags": ["hospital", "Minna", "Tunga", "private clinic"]
+  },
+  {
+    "id": "hospital_minna_top_medical_001",
+    "title": "Top Medical Clinic and Maternity, Minna",
+    "category": "hospitals_minna",
+    "content": "Top Medical Clinic and Maternity is located off Paiko Road in the Tunga area of Minna, Niger State. It focuses on general medical care and maternity services for pregnant women and new mothers.",
+    "source": "Niger State health facility directories (cross-referenced, 2026)",
+    "tags": ["hospital", "Minna", "maternity", "Tunga"]
+  },
+  {
+    "id": "hospital_minna_unity_clinic_001",
+    "title": "Unity Clinic, Minna",
+    "category": "hospitals_minna",
+    "content": "Unity Clinic is located on Bida Road in the Kpakungu area of Minna, Niger State, and provides general outpatient medical services to residents in that part of the city.",
+    "source": "Niger State health facility directories (cross-referenced, 2026)",
+    "tags": ["hospital", "Minna", "Kpakungu"]
+  },
+  {
+    "id": "hospital_minna_guidance_001",
+    "title": "Finding Verified Hospital Contact Details in Minna",
+    "category": "hospitals_minna",
+    "content": "Hospital phone numbers and exact addresses can change over time. For the most accurate, current contact details before traveling to any hospital in Minna, callers should ideally confirm via the Niger State Ministry of Health, or by calling ahead if a number is available. In an emergency, the fastest option is to dial Nigeria's national emergency number, 112, which connects to police, fire, and medical response services free of charge from any network.",
+    "source": "VoiceReach AI operational guidance",
+    "tags": ["hospital", "Minna", "guidance", "emergency"]
+  }
+]

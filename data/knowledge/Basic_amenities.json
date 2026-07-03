@@ -1,0 +1,50 @@
+[
+  {
+    "id": "amenities_emergency_number_001",
+    "title": "Nigeria's National Emergency Number (112)",
+    "category": "basic_amenities",
+    "content": "112 is Nigeria's official toll-free national emergency number, connecting callers to police, fire services, and medical assistance across the country. It can be dialed free of charge from MTN, Glo, Airtel, or 9Mobile, even without airtime, and even without a SIM card in some cases. In 2026, Nigeria's National Economic Council formally adopted 112 as the unified emergency number across all agencies and states to speed up emergency response.",
+    "source": "Nigerian Communications Commission (NCC), National Economic Council 2026",
+    "tags": ["emergency", "amenities", "112", "national emergency number"]
+  },
+  {
+    "id": "amenities_road_safety_001",
+    "title": "Road Accident Emergency Number (122)",
+    "category": "basic_amenities",
+    "content": "122 is the toll-free emergency number for the Federal Road Safety Corps (FRSC), used specifically for road traffic accidents and related emergencies across Nigeria.",
+    "source": "Federal Road Safety Corps (cross-referenced, 2026)",
+    "tags": ["emergency", "amenities", "road safety", "FRSC"]
+  },
+  {
+    "id": "amenities_lagos_emergency_001",
+    "title": "Lagos State Emergency Number (767)",
+    "category": "basic_amenities",
+    "content": "767 is a dedicated toll-free emergency number for security and emergency services within Lagos State, operated alongside the national 112 line by the Lagos State Emergency Management Agency (LASEMA).",
+    "source": "Lagos State Emergency Management Agency (cross-referenced, 2026)",
+    "tags": ["emergency", "amenities", "Lagos", "LASEMA"]
+  },
+  {
+    "id": "amenities_nema_001",
+    "title": "National Emergency Management Agency (NEMA)",
+    "category": "basic_amenities",
+    "content": "NEMA's toll-free hotline (0800 22 55 63 62) handles reports of natural disasters, floods, and building collapses across Nigeria, complementing the general 112 emergency line.",
+    "source": "National Emergency Management Agency (cross-referenced, 2026)",
+    "tags": ["emergency", "amenities", "NEMA", "disaster"]
+  },
+  {
+    "id": "amenities_national_id_001",
+    "title": "Getting a National Identification Number (NIN)",
+    "category": "basic_amenities",
+    "content": "Every Nigerian citizen and legal resident is entitled to a National Identification Number (NIN), issued free by the National Identity Management Commission (NIMC). It is required for many services including SIM card registration, bank account opening, and accessing some government programs. Registration is done at NIMC enrollment centers found in most local government areas.",
+    "source": "National Identity Management Commission (NIMC) (cross-referenced, 2026)",
+    "tags": ["amenities", "NIN", "identification", "NIMC"]
+  },
+  {
+    "id": "amenities_primary_healthcare_001",
+    "title": "Primary Health Care Centres",
+    "category": "basic_amenities",
+    "content": "Primary Health Care (PHC) centres are the first point of contact for basic medical care in most Nigerian communities, including maternal care, child immunization, and treatment of common illnesses like malaria. They are generally free or low-cost and located closer to rural and underserved communities than large hospitals, making them a good first stop before traveling to a general hospital for non-emergency needs.",
+    "source": "Federal Ministry of Health, National Primary Health Care Development Agency (cross-referenced, 2026)",
+    "tags": ["amenities", "healthcare", "PHC", "rural health"]
+  }
+]

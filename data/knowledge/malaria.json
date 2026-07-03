@@ -1,0 +1,18 @@
+[
+  {
+    "id": "malaria_symptoms_001",
+    "title": "Common Malaria Symptoms",
+    "category": "malaria",
+    "content": "Common symptoms of malaria include fever, chills, headache, muscle aches, fatigue, nausea, and vomiting. Symptoms typically appear 10-15 days after an infective mosquito bite. If fever persists for more than 24 hours, or is accompanied by confusion, difficulty breathing, or repeated vomiting, seek emergency medical care immediately.",
+    "source": "NCDC Malaria Guidelines 2023",
+    "tags": ["malaria", "symptoms", "fever"]
+  },
+  {
+    "id": "malaria_prevention_001",
+    "title": "Malaria Prevention",
+    "category": "malaria",
+    "content": "Malaria can be prevented by sleeping under insecticide-treated bed nets, using indoor residual spraying, wearing long sleeves at dusk, and eliminating standing water where mosquitoes breed. Pregnant women and children under five are at highest risk and should take extra precautions.",
+    "source": "WHO Malaria Prevention Guidelines",
+    "tags": ["malaria", "prevention", "bed nets"]
+  }
+]

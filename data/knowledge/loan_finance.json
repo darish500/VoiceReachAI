@@ -1,0 +1,42 @@
+[
+  {
+    "id": "finance_borrowing_mfb_001",
+    "title": "Borrowing from CBN-Licensed Microfinance Banks",
+    "category": "loans_finance",
+    "content": "Microfinance banks (MFBs) licensed by the Central Bank of Nigeria (CBN) are among the safest places to borrow small amounts of money. They offer personal and business loans, often with more reasonable interest rates and clearer terms than informal lenders. Before borrowing, verify the institution is on the CBN's official list of licensed microfinance banks rather than relying only on adverts or social media.",
+    "source": "Central Bank of Nigeria Microfinance Policy Framework (cross-referenced, 2026)",
+    "tags": ["finance", "loans", "microfinance bank", "CBN"]
+  },
+  {
+    "id": "finance_borrowing_cooperative_001",
+    "title": "Borrowing Through Cooperative Societies (Esusu/Ajo)",
+    "category": "loans_finance",
+    "content": "Cooperative societies and traditional group savings schemes (known as esusu or ajo in many Nigerian communities) allow members to contribute regularly and borrow from the pooled fund, often with low or no interest. These are especially useful for traders, market women, and salary earners who belong to a structured group, and do not usually require a Bank Verification Number (BVN) or collateral -- membership and trust within the group matter most.",
+    "source": "Financial inclusion guidance (cross-referenced, 2026)",
+    "tags": ["finance", "loans", "cooperative", "esusu", "ajo"]
+  },
+  {
+    "id": "finance_borrowing_digital_lenders_001",
+    "title": "Using Digital Loan Apps Safely",
+    "category": "loans_finance",
+    "content": "If considering a loan app, only use ones licensed by the Central Bank of Nigeria (CBN) or registered with the Federal Competition and Consumer Protection Commission (FCCPC). Warning signs of an unsafe or unlicensed loan app include: requesting access to your entire phone contact list or photo gallery before approving a loan, no verifiable physical office address in Nigeria, extremely high or unclear interest rates, and threats or public shaming to collect repayment. Legitimate lenders are legally restricted from these practices.",
+    "source": "FCCPC Digital Lending Guidelines (cross-referenced, 2026)",
+    "tags": ["finance", "loans", "loan apps", "FCCPC", "scam prevention"]
+  },
+  {
+    "id": "finance_borrowing_avoid_loan_sharks_001",
+    "title": "Recognizing and Avoiding Loan Sharks",
+    "category": "loans_finance",
+    "content": "Unlicensed money lenders, sometimes called loan sharks, often charge extremely high interest rates far above what regulated institutions charge, and may use threats, harassment, or public humiliation to force repayment. Before borrowing from any individual or platform, ask whether they are licensed under state Money Lenders Law or regulated by the CBN or FCCPC. If unsure, it is safer to seek a loan from a registered microfinance bank or a trusted cooperative society instead.",
+    "source": "Consumer protection guidance (cross-referenced, 2026)",
+    "tags": ["finance", "loans", "loan sharks", "scam prevention"]
+  },
+  {
+    "id": "finance_borrowing_business_loans_001",
+    "title": "Government-Backed Business and Agricultural Loans",
+    "category": "loans_finance",
+    "content": "The Central Bank of Nigeria runs several intervention schemes for registered businesses and farmers, generally offering lower interest rates than commercial loans. These include the AGSMEIS scheme for micro, small, and medium-sized enterprises (single-digit interest, long repayment periods) and the Anchor Borrowers' Programme for farmers, which can provide loans and farm inputs repayable in cash or harvested produce. These schemes typically require the business to be registered with the Corporate Affairs Commission (CAC) and to apply through an eligible participating financial institution, not the CBN directly.",
+    "source": "Central Bank of Nigeria intervention scheme guidelines (cross-referenced, 2026)",
+    "tags": ["finance", "loans", "business", "agriculture", "CBN intervention"]
+  }
+]
