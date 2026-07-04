@@ -1,0 +1,51 @@
+[
+  {
+    "id": "chronic_hypertension_overview_001",
+    "title": "Understanding High Blood Pressure (Hypertension)",
+    "category": "chronic_disease",
+    "content": "High blood pressure often has no obvious symptoms, which is why it is sometimes called a 'silent' condition -- many people only find out through a check-up. When symptoms do occur, they can include headaches, dizziness, or blurred vision, but the only reliable way to know is to have blood pressure checked regularly, ideally at least once a year for adults, more often if already diagnosed. Reducing salt intake, staying physically active, maintaining a healthy weight, and limiting alcohol all help manage blood pressure alongside any medication a health worker prescribes.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": [
+      "chronic disease",
+      "hypertension",
+      "blood pressure"
+    ]
+  },
+  {
+    "id": "chronic_hypertension_emergency_001",
+    "title": "When High Blood Pressure Becomes an Emergency",
+    "category": "chronic_disease",
+    "content": "A hypertensive emergency should be treated urgently if severe headache, chest pain, difficulty breathing, vision changes, confusion, or weakness on one side of the body occur alongside known high blood pressure -- these can be signs of a stroke or heart complication and need immediate medical attention.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": [
+      "chronic disease",
+      "hypertension",
+      "emergency",
+      "stroke"
+    ]
+  },
+  {
+    "id": "chronic_diabetes_overview_001",
+    "title": "Understanding Diabetes",
+    "category": "chronic_disease",
+    "content": "Diabetes means the body has trouble controlling blood sugar levels. Common warning signs include excessive thirst, frequent urination, unexplained weight loss, constant hunger, blurred vision, and slow-healing wounds or cuts. Diabetes is diagnosed through a blood test at a health facility, not by symptoms alone -- anyone noticing these signs should get tested rather than guessing. Managing diabetes generally involves a balanced diet lower in sugar and refined carbohydrates, regular physical activity, and consistent medical follow-up.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": [
+      "chronic disease",
+      "diabetes",
+      "blood sugar"
+    ]
+  },
+  {
+    "id": "chronic_diabetes_emergency_001",
+    "title": "Diabetes Emergency Warning Signs",
+    "category": "chronic_disease",
+    "content": "A person with diabetes needs urgent care if they become confused, unusually drowsy, difficult to wake, have very rapid breathing, or lose consciousness -- these can be signs of dangerously high or low blood sugar. If a diabetic person becomes confused or faints and a fast-acting sugar source (like juice or sugar water) is available, offering it while arranging urgent transport to a health facility can help, but this does not replace emergency medical care.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": [
+      "chronic disease",
+      "diabetes",
+      "emergency"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mental_health_stress_recognition_001",
+    "title": "Recognizing Stress and Anxiety",
+    "category": "mental_health",
+    "content": "Common signs of ongoing stress or anxiety include trouble sleeping, constant worry, irritability, tiredness even after rest, loss of appetite or overeating, and difficulty concentrating. These feelings are common and nothing to be ashamed of. If they last for more than two weeks or start affecting daily life, work, or relationships, it helps to talk to a health worker or counsellor rather than carrying it alone.",
+    "source": "General mental health guidance (cross-referenced, 2026)",
+    "tags": [
+      "mental health",
+      "stress",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "mental_health_reducing_stigma_001",
+    "title": "Mental Health Struggles Are Common, Not a Weakness",
+    "category": "mental_health",
+    "content": "Struggling emotionally does not mean someone is weak or has failed. Mental health challenges can affect anyone regardless of strength, background, or how well their life may look from the outside. Talking about difficult feelings openly, rather than hiding them, is one of the most helpful things a person can do for themselves or someone they are worried about.",
+    "source": "General mental health guidance (cross-referenced, 2026)",
+    "tags": [
+      "mental health",
+      "stigma",
+      "support"
+    ]
+  },
+  {
+    "id": "mental_health_support_lines_001",
+    "title": "Free Mental Health Support Lines in Nigeria",
+    "category": "mental_health",
+    "content": "SURPIN (Suicide Research and Prevention Initiative) runs a 24-hour national helpline staffed by psychiatrists, psychologists, and counsellors, with support available in Hausa, Yoruba, and Igbo -- their contact details are on surpinng.com. Mentally Aware Nigeria Initiative (MANI) offers free, confidential 24/7 crisis support for young people, reachable through their social media pages and website, mentallyaware.org. For any immediate danger to life, call 112, Nigeria's national emergency number.",
+    "source": "SURPIN and MANI official information (cross-referenced, 2026)",
+    "tags": [
+      "mental health",
+      "crisis support",
+      "SURPIN",
+      "MANI",
+      "helpline"
+    ]
+  },
+  {
+    "id": "mental_health_supporting_others_001",
+    "title": "How to Support Someone Who Is Struggling",
+    "category": "mental_health",
+    "content": "If someone seems withdrawn, hopeless, or talks about feeling like a burden, it helps to listen without judgment and take what they say seriously rather than dismissing it. Encouraging them to talk to a health worker, counsellor, or a helpline like SURPIN, and staying with them if they seem to be in immediate danger, can make a real difference. Simply being willing to listen is valuable, even without having the right words.",
+    "source": "General mental health guidance (cross-referenced, 2026)",
+    "tags": [
+      "mental health",
+      "supporting others",
+      "crisis support"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+
+[
+  {
+    "id": "first_aid_burns_001",
+    "title": "First Aid for Minor Burns",
+    "category": "first_aid",
+    "content": "For a minor burn, cool the area under clean, cool (not ice-cold) running water for about 10-20 minutes as soon as possible. Do not apply butter, toothpaste, or oil to a burn, as these can trap heat and increase infection risk. Cover loosely with a clean, non-stick cloth. Seek medical care urgently for burns that are large, deep, on the face, hands, or genitals, or if the skin is charred or white.",
+    "source": "General first aid guidance (cross-referenced, 2026)",
+    "tags": [
+      "first aid",
+      "burns",
+      "emergency"
+    ]
+  },
+  {
+    "id": "first_aid_cuts_bleeding_001",
+    "title": "First Aid for Cuts and Bleeding",
+    "category": "first_aid",
+    "content": "For a bleeding cut, apply firm, direct pressure with a clean cloth for several minutes without repeatedly lifting it to check. Once bleeding slows, clean the wound gently with clean water and cover with a clean bandage. Seek urgent medical care if bleeding does not stop after 10-15 minutes of firm pressure, the cut is deep or gaping, or it was caused by a rusty or dirty object (tetanus risk).",
+    "source": "General first aid guidance (cross-referenced, 2026)",
+    "tags": [
+      "first aid",
+      "cuts",
+      "bleeding"
+    ]
+  },
+  {
+    "id": "first_aid_choking_001",
+    "title": "First Aid for Choking",
+    "category": "first_aid",
+    "content": "If someone is choking but can still cough or speak, encourage them to keep coughing to try to clear the blockage themselves. If they cannot breathe, speak, or cough, give up to 5 firm back blows between the shoulder blades with the heel of your hand, followed by up to 5 abdominal thrusts (pulling inward and upward just above the navel) if back blows do not work. Call for emergency help immediately if the person becomes unconscious.",
+    "source": "General first aid guidance (cross-referenced, 2026)",
+    "tags": [
+      "first aid",
+      "choking",
+      "emergency"
+    ]
+  },
+  {
+    "id": "first_aid_snake_bite_001",
+    "title": "First Aid for Snake Bites",
+    "category": "first_aid",
+    "content": "If someone is bitten by a snake, keep them calm and still to slow the spread of venom, keep the bitten limb below heart level if possible, and remove tight clothing or jewelry near the bite before swelling starts. Do NOT cut the wound, try to suck out venom, apply a tight tourniquet, or apply ice. Get the person to the nearest hospital as quickly as possible -- snake bites should always be treated as a medical emergency, even if symptoms seem mild at first.",
+    "source": "General first aid guidance (cross-referenced, 2026)",
+    "tags": [
+      "first aid",
+      "snake bite",
+      "emergency"
+    ]
+  },
+  {
+    "id": "first_aid_fainting_001",
+    "title": "First Aid for Fainting",
+    "category": "first_aid",
+    "content": "If someone faints, lay them flat and raise their legs slightly to help blood flow back to the brain, and loosen any tight clothing. They usually recover within a minute or two. Seek medical care if they do not regain consciousness quickly, faint repeatedly, are injured from the fall, or if fainting happens in a pregnant woman or someone with a known heart condition.",
+    "source": "General first aid guidance (cross-referenced, 2026)",
+    "tags": [
+      "first aid",
+      "fainting"
+    ]
+  }
+]

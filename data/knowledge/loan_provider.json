@@ -1,0 +1,57 @@
+[
+  {
+    "id": "loan_provider_nirsal_mfb_001",
+    "title": "NIRSAL Microfinance Bank (NMFB)",
+    "category": "loan_providers",
+    "content": "NIRSAL Microfinance Bank (NMFB) is a national microfinance bank licensed by the Central Bank of Nigeria, created specifically to give loans to people regular commercial banks often reject, such as farmers, market traders, artisans, and small business owners without land or property documents. It is owned by the Bankers Committee (75%), NIRSAL (15%), and the Nigerian Postal Service (10%), and operates over 100 branches across all 36 states. Loans range from as little as 50,000 naira up to 10 million naira, with intervention schemes like AGSMEIS offering rates as low as 9% per year, far below typical commercial loan rates of 25-35%. To apply, visit any NMFB branch or the online portal at nmfb.com.ng with a valid ID, BVN, and basic business or employment details.",
+    "source": "NIRSAL Microfinance Bank official information (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "loans",
+      "NIRSAL",
+      "microfinance bank",
+      "AGSMEIS"
+    ]
+  },
+  {
+    "id": "loan_provider_nirsal_amazon_loan_001",
+    "title": "NIRSAL Amazon Loan for Women",
+    "category": "loan_providers",
+    "content": "The Amazon Loan is a NIRSAL Microfinance Bank product designed specifically for women and women-owned businesses, where groups of 5 to 10 women apply together. This group-based approach makes it more accessible for women traders and entrepreneurs who may not have individual collateral, since the group provides mutual support and accountability for repayment.",
+    "source": "NIRSAL Microfinance Bank official information (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "loans",
+      "NIRSAL",
+      "women",
+      "amazon loan"
+    ]
+  },
+  {
+    "id": "loan_provider_boi_001",
+    "title": "Bank of Industry (BOI)",
+    "category": "loan_providers",
+    "content": "The Bank of Industry (BOI) is Nigeria's oldest and largest Development Finance Institution, majority-owned by the Federal Government, focused on providing financing to micro, small, medium, and large industrial businesses. BOI offers loans for equipment purchase, working capital, and business expansion, generally at more favorable interest rates and longer repayment terms than commercial banks, and often works with businesses that are formally registered with the Corporate Affairs Commission (CAC). Applications are typically made through BOI's website or its branch offices.",
+    "source": "General public knowledge of Bank of Industry (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "loans",
+      "Bank of Industry",
+      "BOI",
+      "business"
+    ]
+  },
+  {
+    "id": "loan_provider_scam_warning_001",
+    "title": "Warning: Loan Scams Impersonating Real Institutions",
+    "category": "loan_providers",
+    "content": "Fraudsters sometimes create fake websites or messages pretending to be NIRSAL Microfinance Bank, Bank of Industry, or other legitimate lenders, asking for an upfront 'processing fee' before releasing a loan. Legitimate institutions like NIRSAL Microfinance Bank have publicly stated they never ask for a processing fee to access a loan. Before applying anywhere, verify you are on the lender's real, official website (such as nmfb.com.ng for NIRSAL), and never pay an upfront fee to 'unlock' or 'release' a loan.",
+    "source": "NIRSAL Microfinance Bank fraud alerts (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "loans",
+      "scam prevention",
+      "fraud"
+    ]
+  }
+]

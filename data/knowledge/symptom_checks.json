@@ -1,0 +1,42 @@
+[
+  {
+    "id": "symptom_headache_general_001",
+    "title": "Common Causes of Headache and Home Care",
+    "category": "symptom_check",
+    "content": "Most everyday headaches are caused by dehydration, hunger, poor sleep, stress, or spending long periods in the sun. Resting in a cool, quiet place, drinking water, and eating something if it has been a while since the last meal often helps a mild headache. If a headache follows a fever, it may be linked to malaria or another infection rather than a simple tension headache.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": ["symptom", "headache", "home care"]
+  },
+  {
+    "id": "symptom_headache_danger_signs_001",
+    "title": "Headache Danger Signs Requiring Urgent Care",
+    "category": "symptom_check",
+    "content": "A headache should be checked urgently by a health worker if it is the worst headache of the person's life, comes on suddenly and severely, is accompanied by a stiff neck, confusion, slurred speech, weakness on one side of the body, blurred or double vision, repeated vomiting, or fever with a rash. In a pregnant woman, a severe headache with blurred vision can be a sign of a dangerous condition called pre-eclampsia and needs immediate medical attention.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": ["symptom", "headache", "emergency", "danger signs"]
+  },
+  {
+    "id": "symptom_stomach_pain_general_001",
+    "title": "Common Causes of Stomach Pain and Home Care",
+    "category": "symptom_check",
+    "content": "Mild stomach pain is often caused by indigestion, gas, constipation, hunger, or eating something that disagreed with the stomach. Resting, sipping water slowly, and eating light, easy foods like rice or bananas once the pain settles can help. If stomach pain comes with fever, it may be linked to malaria, a stomach infection, or another illness rather than simple indigestion.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": ["symptom", "stomach pain", "home care"]
+  },
+  {
+    "id": "symptom_stomach_pain_danger_signs_001",
+    "title": "Stomach Pain Danger Signs Requiring Urgent Care",
+    "category": "symptom_check",
+    "content": "Stomach pain needs urgent medical attention if it is severe and constant, especially if it is focused on one side (particularly the lower right side, which can indicate appendicitis), comes with a hard or swollen abdomen, persistent vomiting, blood in vomit or stool, high fever, or the person cannot pass stool or gas at all. Severe stomach pain in a pregnant woman should always be checked urgently, as it can signal a serious pregnancy complication.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": ["symptom", "stomach pain", "emergency", "danger signs"]
+  },
+  {
+    "id": "symptom_general_when_to_seek_care_001",
+    "title": "General Rule for When Any Symptom Needs Urgent Care",
+    "category": "symptom_check",
+    "content": "For any symptom, urgent care should be sought if it is severe, getting worse quickly, comes with high fever, affects breathing, causes confusion or fainting, or if the person affected is a very young child, an elderly person, or a pregnant woman -- these groups can deteriorate faster than a healthy adult and should be checked sooner rather than later.",
+    "source": "General primary care guidance (cross-referenced, 2026)",
+    "tags": ["symptom", "general", "emergency", "danger signs"]
+  }
+]

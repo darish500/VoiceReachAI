@@ -1,0 +1,91 @@
+[
+  {
+    "id": "hiv_testing_treatment_001",
+    "title": "Free HIV Testing and Treatment in Nigeria",
+    "category": "hiv_tb",
+    "content": "HIV testing and antiretroviral therapy (ART) are provided free of charge at government health facilities across Nigeria, supported by the Federal Ministry of Health alongside international partners. Testing is confidential, and Nigeria follows a 'test and treat' policy, meaning anyone who tests positive can start treatment immediately regardless of how advanced the infection is. With consistent treatment, people living with HIV can live long, healthy lives, and treatment reduces the virus to undetectable levels, which also prevents transmission to others.",
+    "source": "Federal Ministry of Health / PEPFAR/WHO Nigeria programme information (cross-referenced, 2026)",
+    "tags": [
+      "HIV",
+      "ART",
+      "testing",
+      "treatment"
+    ]
+  },
+  {
+    "id": "tb_treatment_001",
+    "title": "Free Tuberculosis (TB) Treatment in Nigeria",
+    "category": "hiv_tb",
+    "content": "Tuberculosis (TB) treatment is provided free at designated government health facilities (DOTS centres) across Nigeria. Warning signs of TB include a persistent cough lasting more than two weeks, coughing up blood, unexplained weight loss, night sweats, and fever. TB is curable with a full course of treatment, but stopping treatment early can make the infection drug-resistant and harder to treat, so it is important to complete the full course exactly as instructed even after starting to feel better.",
+    "source": "National TB and Leprosy Control Programme / WHO Nigeria (cross-referenced, 2026)",
+    "tags": [
+      "TB",
+      "tuberculosis",
+      "treatment",
+      "DOTS"
+    ]
+  },
+  {
+    "id": "family_planning_overview_001",
+    "title": "Family Planning Methods Overview",
+    "category": "family_planning",
+    "content": "Family planning methods available in Nigeria include short-term options like condoms and birth control pills, and longer-acting methods like injectables (lasting 1-3 months), implants (lasting 3-5 years), and intrauterine devices/IUDs (lasting up to 10 years). These are generally available at government health centres, often at low or no cost through public health programmes. The right method depends on individual health and preferences, and a trained health worker or family planning counsellor can help explain the options and any side effects before choosing.",
+    "source": "Federal Ministry of Health family planning guidance (cross-referenced, 2026)",
+    "tags": [
+      "family planning",
+      "contraception",
+      "reproductive health"
+    ]
+  },
+  {
+    "id": "malnutrition_children_001",
+    "title": "Recognizing Malnutrition in Children",
+    "category": "malnutrition",
+    "content": "Signs of malnutrition in children include being visibly thin with little fat or muscle, poor growth compared to other children the same age, swelling of the feet or belly, thin and brittle hair, and low energy or reduced interest in play. Malnutrition can be checked using a simple mid-upper arm circumference (MUAC) measurement, often done with a colored tape at health facilities, which quickly identifies children at risk. Children showing these signs should be taken to a Primary Health Care centre, where free or low-cost therapeutic feeding programmes are often available for malnourished children.",
+    "source": "UNICEF/WHO child malnutrition guidance (cross-referenced, 2026)",
+    "tags": [
+      "malnutrition",
+      "child health",
+      "MUAC"
+    ]
+  },
+  {
+    "id": "water_sanitation_cholera_001",
+    "title": "Preventing Cholera and Typhoid Through Safe Water and Hygiene",
+    "category": "water_sanitation",
+    "content": "Cholera and typhoid spread mainly through contaminated water and food. Prevention includes drinking only boiled, treated, or sealed bottled/sachet water, washing hands with soap before eating and after using the toilet, washing fruits and vegetables thoroughly, and properly covering and disposing of waste away from water sources. During a cholera outbreak in an area, extra care with water and food hygiene is especially important, and symptoms like sudden severe watery diarrhea and vomiting should be treated as a medical emergency requiring urgent rehydration and care.",
+    "source": "WHO/NCDC water-borne disease prevention guidance (cross-referenced, 2026)",
+    "tags": [
+      "water",
+      "sanitation",
+      "cholera",
+      "typhoid",
+      "hygiene"
+    ]
+  },
+  {
+    "id": "fake_drugs_verification_001",
+    "title": "How to Verify a Medicine Is Genuine (NAFDAC)",
+    "category": "fake_drugs",
+    "content": "Every legitimate medicine sold in Nigeria should carry a NAFDAC registration number on the packaging -- if there is no number at all, the product should not be purchased. For high-risk medicines like antimalarials and antibiotics, look for a silver scratch panel: scratch it to reveal a PIN and text it free of charge to the number printed on the pack (NAFDAC's Mobile Authentication Service) to instantly confirm if the product is genuine. Registration numbers can also be checked against NAFDAC's public Greenbook database. Buying medicines only from licensed pharmacies, rather than open markets or street hawkers, further reduces the risk of counterfeit drugs.",
+    "source": "NAFDAC Mobile Authentication Service official information (cross-referenced, 2026)",
+    "tags": [
+      "fake drugs",
+      "NAFDAC",
+      "medicine safety",
+      "counterfeit"
+    ]
+  },
+  {
+    "id": "fake_drugs_warning_signs_001",
+    "title": "Warning Signs a Medicine May Be Fake",
+    "category": "fake_drugs",
+    "content": "Warning signs of a counterfeit medicine include blurry or mismatched printing on the packaging, a missing or suspicious NAFDAC number, tablets that are crumbling or discolored, syrups with an unusual smell or particles floating in them, a missing or altered expiry date, and prices that seem unusually cheap compared to the same product elsewhere. If a medicine is suspected to be fake, it should be reported to NAFDAC and not consumed.",
+    "source": "NAFDAC counterfeit drug guidance (cross-referenced, 2026)",
+    "tags": [
+      "fake drugs",
+      "NAFDAC",
+      "warning signs"
+    ]
+  }
+]

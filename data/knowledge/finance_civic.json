@@ -1,0 +1,97 @@
+
+[
+  {
+    "id": "scam_ponzi_red_flags_001",
+    "title": "Recognizing Ponzi Schemes and Investment Scams",
+    "category": "investment_scams",
+    "content": "Warning signs of a Ponzi scheme or investment scam include promises of guaranteed or unusually high returns in a short time, pressure to recruit other people to earn more, heavy promotion on social media (WhatsApp, Instagram, Telegram, TikTok) rather than through licensed channels, and vague or complicated explanations of how the 'investment' actually makes money. Nigeria's Securities and Exchange Commission (SEC) has repeatedly warned that only investment platforms registered with the SEC are legally allowed to solicit funds from the public -- being registered with the Corporate Affairs Commission (CAC) alone is not the same as being licensed by the SEC to offer investments.",
+    "source": "Securities and Exchange Commission (SEC) Nigeria public notices (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "scam",
+      "Ponzi scheme",
+      "SEC",
+      "investment fraud"
+    ]
+  },
+  {
+    "id": "scam_ponzi_history_001",
+    "title": "Lessons From Past Ponzi Scheme Collapses in Nigeria",
+    "category": "investment_scams",
+    "content": "Nigeria has seen several large Ponzi scheme collapses over the years, including MMM Nigeria and, more recently, platforms like CBEX, which caused massive financial losses when they suddenly stopped paying out. These schemes often looked credible and gained trust through word of mouth or social media before collapsing once new investment slowed down. Before putting money into any investment opportunity, it is worth remembering: if a return sounds too good to be true, it usually is, and verifying an operator's registration with the SEC before investing can prevent this kind of loss.",
+    "source": "Public reporting on Nigerian Ponzi scheme collapses (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "scam",
+      "Ponzi scheme",
+      "history"
+    ]
+  },
+  {
+    "id": "pension_rsa_pfa_001",
+    "title": "Understanding Pensions in Nigeria (RSA and PFA)",
+    "category": "pension",
+    "content": "Nigeria's Contributory Pension Scheme, regulated by the National Pension Commission (PenCom), requires most employees to have a Retirement Savings Account (RSA), managed by a licensed Pension Fund Administrator (PFA) of their choosing. Both the employee and employer contribute a percentage of monthly salary into this account, which grows over time and is paid out at retirement. Self-employed individuals and informal sector workers can also open a Micro Pension Plan with a licensed PFA to build retirement savings, even without a traditional employer. Always confirm a PFA is licensed by PenCom before opening an account.",
+    "source": "National Pension Commission (PenCom) guidance (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "pension",
+      "RSA",
+      "PFA",
+      "PenCom"
+    ]
+  },
+  {
+    "id": "mobile_money_overview_001",
+    "title": "Mobile Money and Digital Banking Apps",
+    "category": "mobile_money",
+    "content": "Mobile money and digital banking apps such as OPay, PalmPay, Moniepoint, and Kuda allow people to save, transfer money, pay bills, and sometimes access small loans directly from a smartphone, often without needing to visit a traditional bank branch. These platforms are required to be licensed by the Central Bank of Nigeria (CBN) to legally operate. As with any financial account, users should protect their PIN and never share OTPs, and should verify they are using the official app downloaded from a legitimate app store rather than a link sent by SMS or social media.",
+    "source": "General financial literacy guidance (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "mobile money",
+      "digital banking",
+      "OPay",
+      "Moniepoint"
+    ]
+  },
+  {
+    "id": "civic_nin_sim_001",
+    "title": "NIN-SIM Linkage",
+    "category": "civic_registration",
+    "content": "The Nigerian government has required SIM cards to be linked to a National Identification Number (NIN) as part of efforts to improve security and reduce fraud. To link a SIM, dial the USSD code provided by your network operator or visit an NIMC enrollment centre or your operator's service centre with your NIN. Phone lines not linked to a valid NIN risk being deactivated or barred, so it is worth confirming your SIM's linkage status directly with your network provider if unsure.",
+    "source": "Nigerian Communications Commission (NCC) / NIMC guidance (cross-referenced, 2026)",
+    "tags": [
+      "civic",
+      "NIN",
+      "SIM registration",
+      "NIMC"
+    ]
+  },
+  {
+    "id": "civic_cac_business_registration_001",
+    "title": "Registering a Business with the Corporate Affairs Commission (CAC)",
+    "category": "civic_registration",
+    "content": "Registering a business name or company with the Corporate Affairs Commission (CAC) gives it legal recognition in Nigeria, which is often required to open a business bank account, apply for government-backed loans (like AGSMEIS or BOI financing), or bid for contracts. Business name registration is a simpler and cheaper process than full company incorporation, and can typically be completed online through the CAC portal with a valid means of identification.",
+    "source": "Corporate Affairs Commission (CAC) guidance (cross-referenced, 2026)",
+    "tags": [
+      "civic",
+      "CAC",
+      "business registration",
+      "SME"
+    ]
+  },
+  {
+    "id": "counterfeit_naira_detection_001",
+    "title": "Spotting Counterfeit Naira Notes",
+    "category": "counterfeit_currency",
+    "content": "Genuine naira notes include security features such as a visible watermark when held up to light, a security thread embedded in the note, raised print that can be felt by touch (especially on higher denominations), and color-shifting ink on some notes that changes shade when tilted. If a note feels unusually smooth, lacks these features, or looks noticeably different in color or sharpness compared to other notes, it should be treated with suspicion. Suspected fake currency should be reported to a bank or the Central Bank of Nigeria rather than passed on to someone else.",
+    "source": "Central Bank of Nigeria currency security guidance (cross-referenced, 2026)",
+    "tags": [
+      "finance",
+      "counterfeit currency",
+      "naira",
+      "CBN"
+    ]
+  }
+]
